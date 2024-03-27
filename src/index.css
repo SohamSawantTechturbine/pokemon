@@ -1,10 +1,33 @@
 body {
-  margin: 0;
+  margin-left: 40%;
+  margin-top: 5%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale;background-image:url( https://th.bing.com/th/id/R.187f70ec97fe67396cfb5d6c5bf0c942?rik=GabWcm1Nr7NKyg&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fBQYb4Cl.jpg&ehk=YaYCm81gH7oklWrlor%2b54GmIou%2fORNXM25GSQ4kLr1w%3d&risl=&pid=ImgRaw&r=0);
+}
+.c {
+ 
+  padding: 20px; 
+  border-radius: 8px; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.c img {
+  /* background-color:aqua;  */
+  max-width: 50%; 
+  display: block; 
+  margin-bottom: 10px; 
+  padding: 10%;
+  width:120px ;
+  height:150px
+}
+
+.c p {
+  margin: 0; 
+  font-size: 30px; 
+  color: #0c0b0b; 
 }
 
 code {
